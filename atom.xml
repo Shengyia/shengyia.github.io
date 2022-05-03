@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shengyia.github.io</id>
     <title>笙亦博客</title>
-    <updated>2022-05-03T11:48:13.600Z</updated>
+    <updated>2022-05-03T12:15:15.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shengyia.github.io"/>
     <link rel="self" href="https://shengyia.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://shengyia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 笙亦博客</rights>
     <entry>
-        <title type="html"><![CDATA[创建你自己的博客]]></title>
+        <title type="html"><![CDATA[建立一个个人博客]]></title>
         <id>https://shengyia.github.io/post/chuang-jian-ni-zi-ji-de-bo-ke/</id>
         <link href="https://shengyia.github.io/post/chuang-jian-ni-zi-ji-de-bo-ke/">
         </link>
@@ -20,7 +20,7 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>创建一个属于你自己的个人博客吧😁</p>
 <!-- more -->
-<h1 id="特征">特征👇</h1>
+<h1 id="功能">功能👇</h1>
 <p>📝使用最酷的 Markdown 语法快速创建</p>
 <p>🌉在文章的任何位置插入图片和文章封面图表</p>
 <p>🏷️标签和分组文章</p>
