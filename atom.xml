@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Shengyia.github.io</id>
+    <id>https://shengyia.github.io</id>
     <title>笙亦博客</title>
-    <updated>2022-05-03T03:43:30.604Z</updated>
+    <updated>2022-05-03T03:48:23.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Shengyia.github.io"/>
-    <link rel="self" href="https://Shengyia.github.io/atom.xml"/>
+    <link rel="alternate" href="https://shengyia.github.io"/>
+    <link rel="self" href="https://shengyia.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Shengyia.github.io/images/avatar.png</logo>
-    <icon>https://Shengyia.github.io/favicon.ico</icon>
+    <logo>https://shengyia.github.io/images/avatar.png</logo>
+    <icon>https://shengyia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 笙亦博客</rights>
     <entry>
         <title type="html"><![CDATA[Genshin Impact 私人服务器]]></title>
-        <id>https://Shengyia.github.io/post/Genshin Impact /</id>
-        <link href="https://Shengyia.github.io/post/Genshin Impact /">
+        <id>https://shengyia.github.io/post/Genshin Impact /</id>
+        <link href="https://shengyia.github.io/post/Genshin Impact /">
         </link>
         <updated>2022-05-02T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文章以 <strong>Windows 11作为演示</strong> ！</p>
@@ -41,7 +41,7 @@
 <strong>方案一</strong><br>
 在服务端设备打开设置前往 <a href="ms-settings:network-proxy">网络和 Internet-代理</a>点击<strong>手动设置代理-设置</strong><br>
 设置为<strong>代理IP地址：127.0.0.1 端口：54321</strong><br>
-<img src="https://Shengyia.github.io/post-images/1651546649538.png" alt="" loading="lazy"><br>
+<img src="https://shengyia.github.io/post-images/1651546649538.png" alt="" loading="lazy"><br>
 在浏览器访问<a href="http://mitm.it">http://mitm.it</a>下载证书，若客户端连接服务端则需要下发给客户端。<br>
 <strong>下载完后请关闭代理，否则将无法正常连接服务器。</strong><br>
 <strong>方案二</strong><br>
