@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shengyia.github.io</id>
     <title>笙亦博客</title>
-    <updated>2022-05-03T03:56:26.028Z</updated>
+    <updated>2022-05-03T03:59:54.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shengyia.github.io"/>
     <link rel="self" href="https://shengyia.github.io/atom.xml"/>
@@ -16,10 +16,19 @@
         <link href="https://shengyia.github.io/post/Genshin Impact /">
         </link>
         <updated>2022-05-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>本文章以 <strong>Windows 11作为演示</strong> ！</p>
+        <summary type="html"><![CDATA[<p>为原神(Genshin Impact)实现私人服务器功能。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>本文章以 <strong>Windows 11作为演示</strong> ！</p>
+        <content type="html"><![CDATA[<p>为原神(Genshin Impact)实现私人服务器功能。</p>
 <!-- more -->
+<p>本文章以 <strong>Windows 11作为演示</strong> ！</p>
+<h1 id="功能">功能👇</h1>
+<p><strong>·登录<br>
+·战斗<br>
+·通过控制台生成怪物<br>
+·物品栏功能（接收物品/角色、升级物品/角色等）<br>
+·扭蛋系统<br>
+·好友列表<br>
+·合作社部分工作</strong></p>
 <h1 id="部署">部署</h1>
 <h2 id="环境配置">环境配置</h2>
 <p><a href="https://github.com/Grasscutters/Grasscutter">Github</a><br>
@@ -90,14 +99,6 @@ IP填写服务器公网IP，端口填写服务器配置端口。<br>
 <p>clearartifacts- 删除所有未装备和解锁的0级神器，包括物品栏中的黄色稀有神器</p>
 <p>pos- 获取您当前的坐标。</p>
 <p>weather [weather id] [climate id]- 更改当前天气。</p>
-<h1 id="功能">功能👇</h1>
-<p><strong>·登录<br>
-·战斗<br>
-·通过控制台生成怪物<br>
-·物品栏功能（接收物品/角色、升级物品/角色等）<br>
-·扭蛋系统<br>
-·好友列表<br>
-·合作社部分工作</strong></p>
 ]]></content>
     </entry>
 </feed>
