@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shengyia.github.io</id>
     <title>笙亦博客</title>
-    <updated>2022-05-03T04:03:16.555Z</updated>
+    <updated>2022-05-03T09:40:50.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shengyia.github.io"/>
     <link rel="self" href="https://shengyia.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://shengyia.github.io/images/avatar.png</logo>
     <icon>https://shengyia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 笙亦博客</rights>
+    <entry>
+        <title type="html"><![CDATA[创建你自己的博客]]></title>
+        <id>https://shengyia.github.io/post/chuang-jian-ni-zi-ji-de-bo-ke/</id>
+        <link href="https://shengyia.github.io/post/chuang-jian-ni-zi-ji-de-bo-ke/">
+        </link>
+        <updated>2022-05-03T04:12:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>创建一个属于你自己的个人博客吧😁</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>创建一个属于你自己的个人博客吧😁</p>
+<!-- more -->
+<h1 id="特征">特征👇</h1>
+<p>📝使用最酷的 Markdown 语法快速创建</p>
+<p>🌉在文章的任何位置插入图片和文章封面图表</p>
+<p>🏷️标签和分组文章</p>
+<p>📋自定义菜单，甚至创建外部链接菜单</p>
+<p>💻在 Windows、MacOS 或 Linux 上使用此客户端</p>
+<p>🌎使用Github页面或编码页面向世界展示未来将支持更多平台</p>
+<p>💬只需配置和访问 Gitalk 或 DisqusJS 评论系统</p>
+<p>🇬🇧使用简体中文、繁体中文、英文</p>
+<p>🌁使用应用程序内的任何默认主题或任何第三方主题，免费主题自定义</p>
+<p>🖥自定义源文件夹并使用OneDrive，iCloud，Dropbox等同步多个设备。</p>
+<h1 id="快速上手">快速上手</h1>
+<h2 id="安装">安装</h2>
+<p>安装 <a href="https://gridea.dev/">Gridea</a></p>
+<h2 id="发布">发布</h2>
+<p>创建Github账户。<br>
+点击<a href="https://github.com/settings/tokens/new">这里</a>创建一个账户Token。<br>
+点击然后进入主页点击<a href="https://github.com/new">New</a>创建一个储存库。<br>
+名称格式：Github用户名.github.io<br>
+然后点击<br>
+如图：</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Genshin Impact 私人服务器]]></title>
         <id>https://shengyia.github.io/post/Genshin Impact /</id>
@@ -77,9 +110,9 @@ IP填写服务器公网IP，端口填写服务器配置端口。</p>
 IP填写服务器公网IP，端口填写服务器配置端口。</p>
 <h2 id="ios">IOS</h2>
 <p>前往 系统设置-WLAN 设置当前连接 WiFi 的代理。<br>
-IP填写服务器公网IP，端口填写服务器配置端口。<br>
-##我没有公网IP怎么办？<br>
-<strong>该方法仅限Windows。</strong><br>
+IP填写服务器公网IP，端口填写服务器配置端口。</p>
+<h2 id="我没有公网ip怎么办">我没有公网IP怎么办？</h2>
+<p><strong>该方法仅限Windows。</strong><br>
 推荐Redmin LAN。<br>
 创建房间然后让客户端进入，同上方法然后代理IP输入RedminLAN服务器的IP。</p>
 <h1 id="命令">命令</h1>
